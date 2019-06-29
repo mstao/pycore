@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2ead85c-2c58-498d-9fae-b0778751451e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/function/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functional/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/io/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/if.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/if.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/str.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/str.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/class/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,41 +110,6 @@
             <path>
               <item name="pycore" type="b2602c69:ProjectViewProjectNode" />
               <item name="pycore" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pycore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pycore" type="462c0819:PsiDirectoryNode" />
-              <item name="advanced" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pycore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pycore" type="462c0819:PsiDirectoryNode" />
-              <item name="async" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pycore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pycore" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pycore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pycore" type="462c0819:PsiDirectoryNode" />
-              <item name="email" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pycore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pycore" type="462c0819:PsiDirectoryNode" />
-              <item name="network" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pycore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pycore" type="462c0819:PsiDirectoryNode" />
-              <item name="regexp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pycore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pycore" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pycore" type="b2602c69:ProjectViewProjectNode" />
