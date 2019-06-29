@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2ead85c-2c58-498d-9fae-b0778751451e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/object/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/class/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/standardlib/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/standard_lib/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/standardlib/email/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/standard_lib/email/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/standardlib/io/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/standard_lib/io/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/standardlib/network/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/standard_lib/network/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/standardlib/process/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/standard_lib/process/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/standardlib/regexp/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/standard_lib/regexp/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/standardlib/thread/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/standard_lib/thread/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,6 +132,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python\pycore\standardlib" />
       <recent name="D:\python\pycore" />
     </key>
   </component>
