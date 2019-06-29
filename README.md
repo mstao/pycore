@@ -1,6 +1,9 @@
 # pycore
-The test and demo of python
 
+参考：
+
+- 官方文档 https://docs.python.org/zh-cn/3/tutorial/
+- Python教程 https://www.liaoxuefeng.com/wiki/1016959663602400
 
 ## 编码风格
 
