@@ -17,3 +17,19 @@
 - 如果你的代码旨在用于国际环境，请不要使用花哨的编码。Python 默认的 UTF-8 或者纯 ASCII 在任何情况下都能有最好的表现。同样，哪怕只有很小的可能，遇到说不同语言的人阅读或维护代码，也不要在标识符中使用非ASCII字符。
 
 参考：[PEP 8](https://www.python.org/dev/peps/pep-0008/PEP 8)
+
+## 命名规范
+
+Type |	Public | Internal
+---|---|---
+Modules	| lower_with_under	| 	_lower_with_under
+Packages	| 	lower_with_under	 
+Classes	| 	CapWords		| _CapWords
+Exceptions	| 	CapWords	 
+Functions	| 	lower_with_under()	| 	_lower_with_under()
+Global/Class Constants		| CAPS_WITH_UNDER		| _CAPS_WITH_UNDER
+Global/Class Variables	| 	lower_with_under	| 	_lower_with_under
+Instance Variables	| 	lower_with_under	| 	_lower_with_under (protected) or __lower_with_under (private)
+Method Names	| 	lower_with_under()		| _lower_with_under() (protected) or __lower_with_under() (private)
+Function/Method Parameters	| 	lower_with_under	 
+Local Variables	|	lower_with_under	
