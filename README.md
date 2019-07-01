@@ -1,4 +1,4 @@
-# pycore
+# pycore [![Build Status](https://travis-ci.org/mstao/pycore.svg?branch=master)](https://travis-ci.org/mstao/pycore)
 
 参考：
 
