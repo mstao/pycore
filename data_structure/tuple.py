@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# 初始化tuple
+# 初始化tuple(元组)
 classmates = ('Michael', 'Bob', 'Tracy')
 print(classmates)
 
