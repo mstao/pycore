@@ -52,3 +52,39 @@ person('Adam', 45, gender='M', job='Engineer')
 extra = {'city': 'Beijing', 'job': 'Engineer'}
 person('Jack', 24, **extra)
 
+# 命名关键字参数
+# 如果要限制关键字参数的名字，就可以用命名关键字参数
+
+def person(name, age, *, city, job):
+    print(name, age, city, job)
+
+
+person('Walker', 20, city='2222', job='zzz')
+
+def product(*numbers):
+    sum = 1
+    for n in numbers:
+        sum *= n
+    return sum
+
+
+# 测试
+print('product(5) =', product(5))
+print('product(5, 6) =', product(5, 6))
+print('product(5, 6, 7) =', product(5, 6, 7))
+print('product(5, 6, 7, 9) =', product(5, 6, 7, 9))
+if product(5) != 5:
+    print('测试失败!')
+elif product(5, 6) != 30:
+    print('测试失败!')
+elif product(5, 6, 7) != 210:
+    print('测试失败!')
+elif product(5, 6, 7, 9) != 1890:
+    print('测试失败!')
+else:
+    try:
+        product()
+        print('测试成功!')
+    except TypeError:
+        print('测试失败!')
+
