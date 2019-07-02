@@ -1,9 +1,10 @@
-# pycore
+# pycore [![Build Status](https://travis-ci.org/mstao/pycore.svg?branch=master)](https://travis-ci.org/mstao/pycore)
 
 参考：
 
 - 官方文档 https://docs.python.org/zh-cn/3/tutorial/
 - Python教程 https://www.liaoxuefeng.com/wiki/1016959663602400
+- Building a Python Project https://docs.travis-ci.com/user/languages/python/
 
 ## 编码风格
 
