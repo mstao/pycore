@@ -24,3 +24,17 @@ print(d)
 
 del d['Bob']
 print(d)
+
+# 遍历
+
+print('遍历key')
+for key in d.keys():
+    print(key)
+
+print('遍历value')
+for value in d.values():
+    print(value)
+
+print('遍历key和value')
+for item in d.items():
+    print(item)
