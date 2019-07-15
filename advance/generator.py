@@ -24,7 +24,7 @@ def fib(n):
         t = (b, a + b)
         a = t[0]
         b = t[1]
-        i+=1
+        i += 1
     return "done"
 
 
